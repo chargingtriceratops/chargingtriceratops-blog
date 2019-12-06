@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ctriceratops
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chargingtriceratops.com
+  * I am ctriceratops (https://keybase.io/ctriceratops) on keybase.
+  * I have a public key ASCh3ZfMLYkWq6PZ6_9mAkQz_oRNOW-CdvSbvbBOdC8sBQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a1dd97cc2d8916aba3d9ebff66024433fe844d396f8276f49bbdb04e742f2c050a",
+      "host": "keybase.io",
+      "kid": "0120a1dd97cc2d8916aba3d9ebff66024433fe844d396f8276f49bbdb04e742f2c050a",
+      "uid": "57addd19960f97a835560326bc166319",
+      "username": "ctriceratops"
+    },
+    "merkle_root": {
+      "ctime": 1575674793,
+      "hash": "6514058b4cb3939e4419668ad68772d9ac8b9bf8f3401bba10c1e9a8c5a9819335a454095aad8b0cd62ad813214b9566c2415d6871131b29b0f382256e4bfbd5",
+      "hash_meta": "fa4fc2fd784b9e09a6d39690a5950c1df1e61078f3a2daca1beb69286ca67741",
+      "seqno": 12590313
+    },
+    "service": {
+      "entropy": "a+fQs7nZPs7XsnpsqcDU9lyF",
+      "hostname": "chargingtriceratops.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575674802,
+  "expire_in": 504576000,
+  "prev": "deb6784551bcdcb9c7a018a4d8337dc42cf933f0722a00b2b3601562479ad1ce",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgod2XzC2JFquj2ev/ZgJEM/6ETTlvgnb0m72wTnQvLAUKp3BheWxvYWTESpcCGsQg3rZ4RVG83LnHoBik2DN9xCz5M/ByKgCys2AVYkea0c7EIOazS+8ZdrQz7CK0gkkVSuBvi/gMsQqBSBR0aEUYIv+2AgHCo3NpZ8RARyWBUh/NBsAKMB/xyI8zJNcrdItnjOykqCABNiC0l5SrJWdyj5wHv3ivRAMppxGS5hmU4SZRN0xvSJAQQgtVBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEN/El6NWJPpD4iDFGOEF0I/mhJO4nNqpVAWtURxnCpZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ctriceratops
+
+==================================================================
