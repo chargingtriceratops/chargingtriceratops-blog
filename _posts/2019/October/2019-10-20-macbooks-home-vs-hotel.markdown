@@ -17,3 +17,5 @@ The new Macbooks meet only the first two, and completely fail at the other two. 
 Recently I had a chance to use a Surface Laptop. It was a brilliant experience. Apart from a couple of flaws, I think its a far superior replacement for my Macbook than any current-gen Macbook. The Surface Connector mechanism is great (Apple seems to have forgotten that magnetic charging cables are a great idea), the keyboard is great (better than butterfly switches on the new Macbooks) and the screen is lovely (3:2 aspect ratio is a great idea). The only things I dislike about it were, the ports (single USB-A and a Display Port) and the Alcantara material. Both of which are fixed in the new generation Surface Laptop - which has a Type-C port instead of a Display Port and an optional aluminium finish.
 
 It seems like the ideal upgrade for me.
+
+Edit (Dec 2019) : Macbook Pro 16 looks great -- with a fixed keyboard. Hopefully the next gen Macbook Air takes after the Macbook Pro 16.
