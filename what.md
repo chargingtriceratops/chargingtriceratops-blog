@@ -1,5 +1,8 @@
-
-## What is this site?
+---
+layout: page
+title: What is this site?
+permalink: /what/
+---
 
 This is a site for me to dump my thoughts. This is a place for me to share posts that I find interesting.
 
