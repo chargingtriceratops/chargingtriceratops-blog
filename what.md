@@ -4,11 +4,16 @@ title: What is this site?
 permalink: /what/
 ---
 
+
+This is a pseudo-anonymous blog, to act as a replacement for my social media.
+
+Instead of shouting into the void on a platform that spies on me, I am choosing to shout into the void of the internet via this site.
+
 This is a site for me to dump my thoughts. This is a place for me to share posts that I find interesting.
 
 And if I ever write anything interesting - to share that as well.
 
-It's a mix of a public notebook, a journal and a blog. 
+It's a mix of a public notebook, a journal and a blog.
 
 I'm not really writing on this site with anything in mind. Just anything that I don't necessarily want on my IRL identity - nothing malicious, but I like to maintain a gap between the two identities. See [Context Collapse](https://www.zephoria.org/thoughts/archives/2013/12/08/coining-context-collapse.html).
 

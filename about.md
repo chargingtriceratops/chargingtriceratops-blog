@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a pseudo-anonymous blog, to act as a replacement for my social media.
-
-Instead of shouting into the void on a platform that spies on me, I am choosing to shout into the void of the internet via this site.
-
-This is also a place for me to keep interesting things I find.
+'Charging Triceratops' is a pseudo-anonymous identity I use on the Internet.
 
 I have a minimal presence on Twitter [@chartriceratops](https://twitter.com/chartriceratops). 
 
