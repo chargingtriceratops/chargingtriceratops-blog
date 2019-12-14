@@ -7,7 +7,7 @@ tags: [guns, resistance, history]
 
 There was an interesting question posted on /r/history yesterday.After a lot of answers deviating from history and moving the threads to political topics - the mods locked it down and gutted it.
 
-In the process, they removed an interesting post. 
+In the process, they removed an interesting post.
 
 >It depends on the aggression of the occupiers.
 >
