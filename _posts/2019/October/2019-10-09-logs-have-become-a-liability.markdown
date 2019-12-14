@@ -4,7 +4,8 @@ layout: post
 tags: tech, programming, software design 
 ---
 
-Something I agree with. 
+Something I agree with.
+
 
 [Relevant comment by EdwardDiego](https://news.ycombinator.com/item?id=21200987)
 

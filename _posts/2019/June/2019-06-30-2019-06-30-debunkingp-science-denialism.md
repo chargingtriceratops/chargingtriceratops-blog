@@ -7,7 +7,8 @@ author: chargingtriceratops
 tags: [science, pseudoscience]
 ---
 
-This is an interesting study on combating misinformation, that seems so prevalent these days. 
+This is an interesting study on combating misinformation, that seems so prevalent these days.
+
 
 > Getting accurate information across in the face of this science denialism is something of a minefield, as there is evidence that attempts to correct misinformation may backfire, further entrenching the beliefs of science deniers instead. In their paper, Schmid and Betsch present some good news and some bad: rebutting misinformation reduces the ensuing level of science denialism, but not enough to completely counter the effect of the original exposure to misinformation.  
 > ...  
