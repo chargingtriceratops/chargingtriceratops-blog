@@ -19,3 +19,5 @@ Recently I had a chance to use a Surface Laptop. It was a brilliant experience. 
 It seems like the ideal upgrade for me.
 
 Edit (Dec 2019) : Macbook Pro 16 looks great -- with a fixed keyboard. Hopefully the next gen Macbook Air takes after the Macbook Pro 16.
+
+Edit (Apr 2020) : As expected, the new Macbook Air uses the new scissor switches - and has a quad-core option. It is now a good default laptop. Still not feeling the urge to upgrade right now - but when I do feel the need to upgrade, I'm happy that there exists a decent Mac option.
