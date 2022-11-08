@@ -6,7 +6,7 @@ permalink: /about/
 
 'Charging Triceratops' is a pseudo-anonymous identity I use on the Internet.
 
-I have a minimal presence on Twitter [@chartriceratops](https://twitter.com/chartriceratops). 
+I have a minimal presence on Twitter [@chartriceratops](https://twitter.com/chartriceratops).
 
 I'm more active on Reddit [u/chargingtriceratops](https://old.reddit.com/user/chargingtriceratops).
 
