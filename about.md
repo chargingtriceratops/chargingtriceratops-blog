@@ -18,4 +18,4 @@ He/Him.
 
 You can also find me on [keybase under ctriceratops](https://keybase.io/ctriceratops).
 
-I'm now on <a rel="me" href="https://mastodon.social/@chargingtriceratops">Mastodon</a> as well.
+I'm now on <a rel="me noopener" href="https://mastodon.social/@chargingtriceratops" target="_blank">Mastodon</a> as well.
